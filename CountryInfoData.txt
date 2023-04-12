@@ -1,0 +1,1768 @@
+{
+	"countryInfo" : [
+		{
+			"name" : "Canada",
+			"capital" : "Ottawa",
+			"area" : "9,984,670km2",
+			"population" : "37.9M",
+			"languages" : "English, French",
+			"religion" : "christianity",
+			"currency" : "canadian dollar"
+		},
+		{
+			"name" : "United States",
+			"capital" : "Washington",
+			"area" : "9,833,520km2",
+			"population" : "333.3M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar"
+		},
+		{
+			"name" : "Mexico",
+			"capital" : "Mexico",
+			"area" : "1,972,550km2",
+			"population" : "129.2M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Mexican peso"
+		},
+		{
+			"name" : "Guatemala",
+			"capital" : "Guatemala",
+			"area" : "108,889km2",
+			"population" : "17.6M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "quetzal"
+		},
+		{
+			"name" : "Belize",
+			"capital" : "Belmopan",
+			"area" : "22,966 km2",
+			"population" : "441.4K",
+			"languages" : "english",
+			"religion" : "christianity",
+			"currency" : "Belize dollar"
+		},
+		{
+			"name" : "Honduras",
+			"capital" : "Tegucigalpa",
+			"area" : "112,492km2",
+			"population" : "9.5M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "lempira"
+		},
+		{
+			"name" : "El Salvador",
+			"capital" : "San Salvador",
+			"area" : "21,041km2",
+			"population" : "6.6M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar"
+		},
+		{
+			"name" : "Nicaragua",
+			"capital" : "Managua",
+			"area" : "130,375km2",
+			"population" : "6.3M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "cordoba"
+		},
+		{
+			"name" : "Costa Rica",
+			"capital" : "San Jose",
+			"area" : "51,100km2",
+			"population" : "5.2M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Costa Rican colon"
+		},
+		{
+			"name" : "Panama",
+			"capital" : "Panama",
+			"area" : "75,417km2",
+			"population" : "4.3M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "balboa, U.S. dollar"
+		},
+		{
+			"name" : "Colombia",
+			"capital" : "Bogota",
+			"area" : "1,141,748km2",
+			"population" : "52.2M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Colombian peso"
+		},
+		{
+			"name" : "Venezuela",
+			"capital" : "Caracas",
+			"area" : "916,445km2",
+			"population" : "29.8M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Venezuelan bolivar, U.S. dollar"
+		},
+		{
+			"name" : "Peru",
+			"capital" : "Lima",
+			"area" : "1,285,216km2",
+			"population" : "32.3M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Peruvian sol"
+		},
+		{
+			"name" : "Ecuador",
+			"capital" : "Quito",
+			"area" : "283,561km2",
+			"population" : "17.3M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar"
+		},
+		{
+			"name" : "Chile",
+			"capital" : "Santiago",
+			"area" : "756,096km2",
+			"population" : "18.4M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Chilean peso"
+		},
+		{
+			"name" : "Bolivia",
+			"capital" : "La Paz/Sucre",
+			"area" : "1,098,581km2",
+			"population" : "12.0M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "boliviano"
+		},
+		{
+			"name" : "Paraguay",
+			"capital" : "Asuncion",
+			"area" : "406,796km2",
+			"population" : "7.4M",
+			"languages" : "Spanish, Guarani",
+			"religion" : "christianity",
+			"currency" : "guarani"
+		},
+		{
+			"name" : "Argentina",
+			"capital" : "Buenos Aires",
+			"area" : "2,780,400km2",
+			"population" : "46.0M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Argentine peso"
+		},
+		{
+			"name" : "Uruguay",
+			"capital" : "Montevideo",
+			"area" : "181,034km2",
+			"population" : "3.4M",
+			"languages" : "Spanish, Uruguayan Sign Language",
+			"religion" : "christianity",
+			"currency" : "Uruguayan peso"
+		},
+		{
+			"name" : "Brazil",
+			"capital" : "Brasilia",
+			"area" : "8,515,767km2",
+			"population" : "217.4M",
+			"languages" : "Portuguese",
+			"religion" : "christianity",
+			"currency" : "real"
+		},
+		{
+			"name" : "Guyana",
+			"capital" : "Georgetown",
+			"area" : "214,970km2",
+			"population" : "795.4K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Guyanese dollar"
+		},
+		{
+			"name" : "Suriname",
+			"capital" : "Paramaribo",
+			"area" : "163,821km2",
+			"population" : "632.6K",
+			"languages" : "Dutch",
+			"religion" : "christianity",
+			"currency" : "Surinamese dollar"
+		},
+		{
+			"name" : "Cuba",
+			"capital" : "Havana",
+			"area" : "109,884km2",
+			"population" : "11.0M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Cuban peso"
+		},
+		{
+			"name" : "Haiti",
+			"capital" : "Port au Prince",
+			"area" : "27,800km2",
+			"population" : "11.3M",
+			"languages" : "French, Haitian Creole",
+			"religion" : "christianity",
+			"currency" : "Gourde"
+		},
+		{
+			"name" : "Dominican Republic",
+			"capital" : "Santo Domingo",
+			"area" : "48,671km2",
+			"population" : "10.7M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "Dominican peso"
+		},
+		{
+			"name" : "Jamaica",
+			"capital" : "Kingston",
+			"area" : "10,991km2",
+			"population" : "2.8M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Jamaican dollar"
+		},
+		{
+			"name" : "Grenada",
+			"capital" : "Saint George's",
+			"area" : "348km2",
+			"population" : "124.6K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Eastern Caribbean dollar"
+		},
+		{
+			"name" : "Saint Vincent and the Grenadines",
+			"capital" : "Kingstown",
+			"area" : "389km2",
+			"population" : "104.3K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Eastern Caribbean dollar"
+		},
+		{
+			"name" : "Barbados",
+			"capital" : "Bridgetown",
+			"area" : "439km2",
+			"population" : "281.6K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Barbadian dollar"
+		},
+		{
+			"name" : "Saint Lucia",
+			"capital" : "Castries",
+			"area" : "617km2",
+			"population" : "185.0K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Eastern Caribbean dollar"
+		},
+		{
+			"name" : "Dominica",
+			"capital" : "Rosseau",
+			"area" : "750km2",
+			"population" : "72.4K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Eastern Caribbean dollar"
+		},
+		{
+			"name" : "Antigua and Barbuda",
+			"capital" : "Saint John's",
+			"area" : "440km2",
+			"population" : "100.8K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Eastern Caribbean dollar"
+		},
+		{
+			"name" : "Saint Kitts and Nevis",
+			"capital" : "Basseterre",
+			"area" : "261km2",
+			"population" : "47.6K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Eastern Caribbean dollar"
+		},
+		{
+			"name" : "Trinidad and Tobago",
+			"capital" : "Port of Spain",
+			"area" : "5,131km2",
+			"population" : "1.4M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Trinidad and Tobago dollar"
+		},
+		{
+			"name" : "Bahamas",
+			"capital" : "Nassau",
+			"area" : "13,880km2",
+			"population" : "372K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Bahamian dollar, U.S. dollar"
+		},
+		{
+			"name" : "Algeria", 
+			"capital" : "Algiers", 
+			"area" : "2,381,741km2", 
+			"population" : "44.7M", 
+			"languages" : "Arabic,  Tamazight", 
+			"religion" : "islam", 
+			"currency" : "Algerian dinar" 
+		},
+		{
+			"name" : "Angola",
+			"capital" : "Luanda",
+			"area" : "1,246,700km2",
+			"population" : "34.8M",
+			"languages" : "Portuguese",
+			"religion" : "christianity",
+			"currency" : "Angolan kwanza"
+		},
+		{
+			"name" : "Benin",
+			"capital" : "Porto Novo",
+			"area" : "114,763km2",
+			"population" : "13.8M",
+			"languages" : "French, Arabic, English, Indigenious languages",
+			"religion" : "christianity",
+			"currency" : "West African CFA franc" 
+		},
+		{
+			"name" : "Botswana",
+			"capital" : "Gaborone",
+			"area" : "581,730km2",
+			"population" : "2.4M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Botswana pula"
+		},
+		{
+			"name" : "Burkina Faso",
+			"capital" : "Ouagadougou",
+			"area" : "274,200km2",
+			"population" : "22.0M",
+			"languages" : "French",
+			"religion" : "islam",
+			"currency" : "West African CFA franc" 
+		},
+		{
+			"name" : "Burundi",
+			"capital" : "Gitega/Bujumbura",
+			"area" : "27,834km2",
+			"population" : "12.6M",
+			"languages" : "Kirundi,  French, English",
+			"religion" : "christianity",
+			"currency" : "Burundian franc"
+		},
+		{
+			"name" : "Cameroon",
+			"capital" : "Yaounde",
+			"area" : "475,442km2",
+			"population" : "29.3M",
+			"languages" : "French, English",
+			"religion" : "christianity",
+			"currency" : "Central African CFA franc"
+		},
+		{
+			"name" : "Cape Verde",
+			"capital" : "Praia",
+			"area" : "4,033km2",
+			"population" : "562K",
+			"languages" : "Portuguese",
+			"religion" : "christianity",
+			"currency" : "Cape Verdean escudo" 
+		},
+		{
+			"name" : "Central African Republic",
+			"capital" : "Bangui",
+			"area" : "622,984km2",
+			"population" : "5.5M",
+			"languages" : "French, Sango",
+			"religion" : "christianity",
+			"currency" : "Central African CFA franc, Bitcoin"
+		},
+		{
+			"name" : "Chad",
+			"capital" : "N'Djamena",
+			"area" : "1,284,000km2",
+			"population" : "18.0M",
+			"languages" : "Arabic, French",
+			"religion" : "islam/christianity",
+			"currency" : "Central African CFA franc"
+		},
+		{
+			"name" : "Comoros",
+			"capital" : "Moroni",
+			"area" : "1,861km2",
+			"population" : "851K",
+			"languages" : "Comorian, French, Arabic",
+			"religion" : "islam",
+			"currency" : "Comorian franc"
+		},
+		{
+			"name" : "Congo",
+			"capital" : "Brazzaville",
+			"area" : "342,000km2",
+			"population" : "5.6M",
+			"languages" : "French" ,
+			"religion" : "christianity",
+			"currency" : "Central African CFA franc"
+		},
+		{
+			"name" : "Democratic Republic of Congo",
+			"capital" : "Kinshasa",
+			"area" : "2,345,409km2",
+			"population" : "111.9M",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "Congolese franc"
+		},
+		{
+			"name" : "Djibouti",
+			"capital" : "Djibouti",
+			"area" : "23,200km2",
+			"population" : "957K",
+			"languages" : "Arabic, French",
+			"religion" : "islam",
+			"currency" : "Djiboutian franc"
+		},
+		{
+			"name" : "Egypt", 
+			"capital" : "Cairo", 
+			"area" : "1,010,408km2", 
+			"population" : "107.8M", 
+			"languages" : "Egyptian Arabic ", 
+			"religion" : "Islam", 
+			"currency" : "Egyptian pound" 
+		},
+		{
+			"name" : "Equatorial Guinea",
+			"capital" : "Malabo",
+			"area" : "28,050km2",
+			"population" : "1.7M",
+			"languages" : "Spanish, French, Portuguese",
+			"religion" : "christianity",
+			"currency" : "Central African CFA franc"
+		},
+		{
+			"name" : "Eritrea",
+			"capital" : "Asmara",
+			"area" : "117,600km2",
+			"population" : "5.9M",
+			"languages" : "Arabic, Tigrinya",
+			"religion" : "christianity/islam",
+			"currency" : "Nakfa"
+		},
+		{
+			"name" : "Eswatini",
+			"capital" : "Mbabane/Lobamba",
+			"area" : "17,364km2",
+			"population" : "1.2M",
+			"languages" : "Swazi, English",
+			"religion" : "christianity" ,
+			"currency" : "Lilangeni, South African rand" 
+		},
+		{
+			"name" : "Ethiopia",
+			"capital" : "Addis Ababa",
+			"area" : "1,104,300km2",
+			"population" : "113.7M",
+			"languages" : "Afar, Amharic, Oromo, Somali, Tigrinya",
+			"religion" : "christianity",
+			"currency" : "Birr"
+		},
+		{
+			"name" : "Gabon",
+			"capital" : "Libreville",
+			"area" : "267,667km2",
+			"population" : "2.3M",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "Central African CFA franc"
+		},
+		{
+			"name" : "Gambia",
+			"capital" : "Banjul",
+			"area" : "11,300km2",
+			"population" : "2.4M",
+			"languages" : "English",
+			"religion" : "islam",
+			"currency" : "Dalasi"
+		},
+		{
+			"name" : "Ghana",
+			"capital" : "Accra",
+			"area" : "238,535km2",
+			"population" : "32.1M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Cedi" 
+		},
+		{
+			"name" : "Guinea",
+			"capital" : "Conakry", 
+			"area" : "245,857km2",
+			"population" : "13.2M",
+			"languages" : "French",
+			"religion" : "islam",
+			"currency" : "Guinean franc"
+		},
+		{
+			"name" : "Guinea Bissau",
+			"capital" : "Bissau",
+			"area" : "36,125km2",
+			"population" : "2.0M",
+			"languages" : "Portuguese",
+			"religion" : "islam",
+			"currency" : "West African CFA franc"
+		},
+		{
+			"name" : "Ivory Coast",
+			"capital" : "Yamoussoukro",
+			"area" : "322,463km2",
+			"population" : "29.4M",
+			"languages" : "French",
+			"religion" : "islam/christianity",
+			"currency" : "West African CFA franc"
+		},
+		{
+			"name" : "Kenya",
+			"capital" : "Nairobi",
+			"area" : "580,367km2",
+			"population" : "55.9M",
+			"languages" : "Swahili, English",
+			"religion" : "christianity",
+			"currency" : "Kenyan shilling"
+		},
+		{
+			"name" : "Lesotho",
+			"capital" : "Maseru",
+			"area" : "30,355km2",
+			"population" : "2.3M",
+			"languages" : "Sesotho, English",
+			"religion" : "christianity",
+			"currency" : "Lesotho Loti,  South African rand"
+		},
+		{
+			"name" : "Liberia",
+			"capital" : "Monrovia",
+			"area" : "111,370km2",
+			"population" : "5.4M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Liberian dollar"
+		},
+		{
+			"name" : "Libya", 
+			"capital" : "Tripoli", 
+			"area" : "1,759,541km2", 
+			"population" : "7.0M", 
+			"languages" : "Libyan Arabic", 
+			"religion" : "Islam", 
+			"currency" : "Libyan dinar" 
+		},
+		{
+			"name" : "Madagascar",
+			"capital" : "Antananarivo",
+			"area" : "587,041km2",
+			"population" : "28.2M",
+			"languages" : "Malagasy, French",
+			"religion" : "christianity",
+			"currency" : "Ariary"
+		},
+		{
+			"name" : "Malawi",
+			"capital" : "Lilongwe",
+			"area" : "118,484km2",
+			"population" : "20.1M",
+			"languages" : "English" ,
+			"religion" : "christianity",
+			"currency" : "Malawian kwacha"
+		},
+		{
+			"name" : "Mali",
+			"capital" : "Bamako",
+			"area" : "1,240,192km2",
+			"population" : "21.5M",
+			"languages" : "French",
+			"religion" : "islam",
+			"currency" : "West African CFA franc" 
+		},
+		{
+			"name" : "Mauritania",
+			"capital" : "Nouakchott",
+			"area" : "1,030,000km2",
+			"population" : "4.6M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Ouguiya"
+		},
+		{
+			"name" : "Mauritius",
+			"capital" : "Port Louis",
+			"area" : "2,040km2",
+			"population" : "1.3M",
+			"languages" : "English, French",
+			"religion" : "Hinduism",
+			"currency" : "Mauritian rupee"
+		},
+		{
+			"name" : "Morocco", 
+			"capital" : "Rabat", 
+			"area" : "446,300km2", 
+			"population" : "38.0M", 
+			"languages" : "Arabic, Amazigh", 
+			"religion" : "Islam", 
+			"currency" : "Moroccan dirham" 
+		},
+		{
+			"name" : "Mozambique",
+			"capital" : "Maputo",
+			"area" : "801,590km2",
+			"population" : "31.7M",
+			"languages" : "Portuguese",
+			"religion" : "christianity",
+			"currency" : "Metical"
+		},
+		{
+			"name" : "Namibia",
+			"capital" : "Windhoek",
+			"area" : "825,615km2",
+			"population" : "2.6M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Namibian dollar, South African rand" 
+		},
+		{
+			"name" : "Niger",
+			"capital" : "Niamey",
+			"area" : "1,267,000km2",
+			"population" : "24.5M",
+			"languages" : "French",
+			"religion" : "islam",
+			"currency" : "West African CFA franc"
+		},
+		{
+			"name" : "Nigeria",
+			"capital" : "Abuja",
+			"area" : "923,769km2",
+			"population" : "230.9M",
+			"languages" : "English",
+			"religion" : "christianity/islam",
+			"currency" : "Naira"
+		},
+		{
+			"name" : "Rwanda",
+			"capital" : "Kigali",
+			"area" : "26,338km2",
+			"population" : "13.3M",
+			"languages" : "Kinyarwanda, French, English, Swahili",
+			"religion" : "christianity",
+			"currency" : "Rwandan franc"
+		},
+		{
+			"name" : "Sao Tome and Principe",
+			"capital" : "Sao Tome",
+			"area" : "964km2",
+			"population" : "223K",
+			"languages" : "Portuguese",
+			"religion" : "christianity",
+			"currency" : "Dobra"
+		},
+		{
+			"name" : "Senegal",
+			"capital" : "Dakar",
+			"area" : "196,712km2",
+			"population" : "17.2M",
+			"languages" : "French",
+			"religion" : "islam",
+			"currency" : "West African CFA franc"
+		},
+		{
+			"name" : "Seychelles",
+			"capital" : "Victoria",
+			"area" : "459km2",
+			"population" : "100K",
+			"languages" : "English, French, Seychellois Creoles",
+			"religion" : "christianity",
+			"currency" : "Seychellois rupee"
+		},
+		{
+			"name" : "Sierra Leone",
+			"capital" : "Freetown",
+			"area" : "71,740km2",
+			"population" : "8.7M",
+			"languages" : "English",
+			"religion" : "islam",
+			"currency" : "Leone"
+		},
+		{
+			"name" : "Somalia",
+			"capital" : "Mogadishu",
+			"area" : "637,657km2",
+			"population" : "17.1M",
+			"languages" : "Somali, Arabic",
+			"religion" : "islam",
+			"currency" : "Somali shilling"
+		},
+		{
+			"name" : "South Africa",
+			"capital" : "Pretoria/Cape Town/Bloemfontein",
+			"area" : "1,221,037km2",
+			"population" : "60.6M",
+			"languages" : "English, Afrikaans, indigenous languages",
+			"religion" : "christianity",
+			"currency" : "South African rand"
+		},
+		{
+			"name" : "South Sudan",
+			"capital" : "Juba",
+			"area" : "644,329km2",
+			"population" : "11.5M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "South Sudanese pound"
+		},
+		{
+			"name" : "Sudan",
+			"capital" : "Khartoum",
+			"area" : "1,886,068km2",
+			"population" : "48.0M",
+			"languages" : "Arabic, English",
+			"religion" : "islam",
+			"currency" : "Sudanese pound"
+		},
+		{
+			"name" : "Tanzania",
+			"capital" : "Dodoma",
+			"area" : "947,303km2",
+			"population" : "61.7M",
+			"languages" : "Swahili, English, Arabic",
+			"religion" : "christianity",
+			"currency" : "Tanzanian shilling"
+		},
+		{
+			"name" : "Togo",
+			"capital" : "Lome",
+			"area" : "56,785km2",
+			"population" : "8.5M",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "West African CFA franc"
+		},
+		{
+			"name" : "Tunisia", 
+			"capital" : "Tunis", 
+			"area" : "163,610km2", 
+			"population" : "11.7M", 
+			"languages" : "Arabic", 
+			"religion" : "Islam", 
+			"currency" : "Tunisian dinar" 
+		},
+		{
+			"name" : "Uganda",
+			"capital" : "Kampala",
+			"area" : "241,038km2",
+			"population" : "45.9M",
+			"languages" : "English, Swahili",
+			"religion" : "christianity",
+			"currency" : "Ugandan shilling"
+		},
+		{
+			"name" : "Zambia",
+			"capital" : "Lusaka",
+			"area" : "752,617km2",
+			"population" : "19.6M",
+			"languages" : "English, Chewa, Bemba",
+			"religion" : "christianity",
+			"currency" : "Zambian kwacha"
+		},
+		{
+			"name" : "Zimbabwe",
+			"capital" : "Harare",
+			"area" : "390,757km2",
+			"population" : "15.1M",
+			"languages" : "English, indigenous languages",
+			"religion" : "christianity",
+			"currency" : "Zimbabwean dollar, U.S. dollar, South African rand"
+		},
+		{
+			"name" : "Afghanistan",
+			"capital" : "Kabul",
+			"area" : "652,867km2",
+			"population" : "38.3M",
+			"languages" : "Pashto, Dari",
+			"religion" : "islam",
+			"currency" : "Afghani"
+		},
+		{
+			"name" : "Armenia",
+			"capital" : "Yereven",
+			"area" : "29,743km2",
+			"population" : "3.0M",
+			"languages" : "Armenian",
+			"religion" : "christianity",
+			"currency" : "Dram"
+		},
+		{
+			"name" : "Azerbaijan",
+			"capital" : "Baku",
+			"area" : "86,600km2",
+			"population" : "10.4M",
+			"languages" : "Azerbaijani",
+			"religion" : "islam",
+			"currency" : "Manat"
+		},
+		{
+			"name" : "Bahrain",
+			"capital" : "Manama",
+			"area" : "786km2",
+			"population" : "1.5M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Bahraini dinar"
+		},
+		{
+			"name" : "Bangladesh",
+			"capital" : "Dhaka",
+			"area" : "148,460km2",
+			"population" : "169.8M",
+			"languages" : "Bengali",
+			"religion" : "islam",
+			"currency" : "Taka"
+		},
+		{
+			"name" : "Bhutan",
+			"capital" : "Thimphu",
+			"area" : "38,394km2",
+			"population" : "778K",
+			"languages" : "Dzongkha",
+			"religion" : "Buddhism",
+			"currency" : "Ngultrum, Indian rupee" 
+		},
+		{
+			"name" : "Brunei",
+			"capital" : "Bandar Seri Begawan",
+			"area" : "5,765km2",
+			"population" : "460K",
+			"languages" : "Malay",
+			"religion" : "islam",
+			"currency" : "Brunei dollar"
+		},
+		{
+			"name" : "Cambodia",
+			"capital" : "Phnom Penh",
+			"area" : "181,035km2",
+			"population" : "16.7M",
+			"languages" : "Khmer",
+			"religion" : "buddhism",
+			"currency" : "Riel, U.S. dollar"
+		},
+		{
+			"name" : "China",
+			"capital" : "Beijing",
+			"area" : "9,596,961km2",
+			"population" : "1.411B",
+			"languages" : "Standard Chinese",
+			"religion" : "Non-religious",
+			"currency" : "Renminbi"
+		},
+		{
+			"name" : "Cyprus",
+			"capital" : "Nicosia",
+			"area" : "9,251km2",
+			"population" : "1.2M",
+			"languages" : "Greek, Turkish",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Georgia",
+			"capital" : "Tbilisi",
+			"area" : "69,700km2",
+			"population" : "3.7M",
+			"languages" : "Georgian",
+			"religion" : "christianity",
+			"currency" : "Georgian lari"
+		},
+		{
+			"name" : "India",
+			"capital" : "New Delhi",
+			"area" : "3,287,263km2",
+			"population" : "1.376B",
+			"languages" : "Hindi, English",
+			"religion" : "hinduism",
+			"currency" : "Indian rupee"
+		},
+		{
+			"name" : "Indonesia",
+			"capital" : "Jakarta",
+			"area" : "1,904,569km2",
+			"population" : "277.3M",
+			"languages" : "Indonesian",
+			"religion" : "islam",
+			"currency" : "Indonesian rupiah"
+		},
+		{
+			"name" : "Iran",
+			"capital" : "Tehran",
+			"area" : "1,648,195km2",
+			"population" : "86.8M",
+			"languages" : "Persian",
+			"religion" : "Shia",
+			"currency" : "Iranian rial"
+		},
+		{
+			"name" : "Iraq",
+			"capital" : "Baghdad",
+			"area" : "438,317km2",
+			"population" : "40.5M",
+			"languages" : "Arabic, Kurdish",
+			"religion" : "islam",
+			"currency" : "Iraqi dinar"
+		},
+		{
+			"name" : "Israel",
+			"capital" : "Jerusalem",
+			"area" : "22,072km2",
+			"population" : "9.7M",
+			"languages" : "Hebrew",
+			"religion" : "Judaism",
+			"currency" : "New shekel"
+		},
+		{
+			"name" : "Japan",
+			"capital" : "Tokyo",
+			"area" : "377,975km2",
+			"population" : "124.8M",
+			"languages" : "Japanese",
+			"religion" : "Non-religious",
+			"currency" : "Japanese yen"
+		},
+		{
+			"name" : "Jordan",
+			"capital" : "Amman",
+			"area" : "89,342km2",
+			"population" : "11.2M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Jordanian dinar"
+		},
+		{
+			"name" : "Kazakhstan",
+			"capital" : "Astana",
+			"area" : "2,724,900km2",
+			"population" : "19.4M",
+			"languages" : "Kazakh, Russian",
+			"religion" : "islam",
+			"currency" : "Tenge"
+		},
+		{
+			"name" : "Kuwait",
+			"capital" : "Kuwait",
+			"area" : "17,818km2",
+			"population" : "4.3M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Kuwaiti dinar"
+		},
+		{
+			"name" : "Kyrgyzstan",
+			"capital" : "Bishkek",
+			"area" : "199,951km2",
+			"population" : "7.0M",
+			"languages" : "Kyrgyz, Russian",
+			"religion" : "islam",
+			"currency" : "Kyrgyzstani som"
+		},
+		{
+			"name" : "Laos",
+			"capital" : "Vientiane",
+			"area" : "236,800km2",
+			"population" : "7.7M",
+			"languages" : "Lao",
+			"religion" : "buddhism",
+			"currency" : "Kip"
+		},
+		{
+			"name" : "Lebanon",
+			"capital" : "Beirut",
+			"area" : "10,452km2",
+			"population" : "5.3M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Lebanese pound"
+		},
+		{
+			"name" : "Malaysia",
+			"capital" : "Kuala Lumpur",
+			"area" : "330,803km2",		
+			"population" : "32.8M",
+			"languages" : "Malay",
+			"religion" : "islam",
+			"currency" : "Ringgit"
+		},
+		{
+			"name" : "Maldives",
+			"capital" : "Male",
+			"area" : "300km2",		
+			"population" : "579K",
+			"languages" : "Dhivehi",
+			"religion" : "islam",
+			"currency" : "Maldivian rufiyaa, U.S. dollar"
+		},
+		{
+			"name" : "Mongolia",
+			"capital" : "Ulaanbaatar",
+			"area" : "1,564,116km2",		
+			"population" : "3.2M",
+			"languages" : "Mongolian",
+			"religion" : "Buddhism",
+			"currency" : "Togrog"
+		},
+		{
+			"name" : "Myanmar",
+			"capital" : "Naypyidaw",
+			"area" : "676,570km2",		
+			"population" : "57.5M",
+			"languages" : "Burmese",
+			"religion" : "Buddhism",
+			"currency" : "Kyat"
+		},
+		{
+			"name" : "Nepal",
+			"capital" : "Kathmandu",
+			"area" : "147,516km2",		
+			"population" : "30.7M",
+			"languages" : "Nepali",
+			"religion" : "Hinduism",
+			"currency" : "Nepalese rupee"
+		},
+		{
+			"name" : "North Korea",
+			"capital" : "Pyongyang",
+			"area" : "120,540km2",		
+			"population" : "26.1M",
+			"languages" : "Korean",
+			"religion" : "Non-religious",
+			"currency" : "Korean People's won"
+		},
+		{
+			"name" : "Oman",
+			"capital" : "Muscat",
+			"area" : "309,500km2",		
+			"population" : "4.5M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Omani rial"
+		},
+		{
+			"name" : "Pakistan",
+			"capital" : "Islamabad",
+			"area" : "881,913km2",		
+			"population" : "242.9M",
+			"languages" : "Urdu, English",
+			"religion" : "islam",
+			"currency" : "Pakistani rupee"
+		},
+		{
+			"name" : "Philippines",
+			"capital" : "Manila",
+			"area" : "300,000km2",		
+			"population" : "109.0M",
+			"languages" : "Filipino, English",
+			"religion" : "christianity",
+			"currency" : "Philippine peso"
+		},
+		{
+			"name" : "Qatar",
+			"capital" : "Doha",
+			"area" : "11,581km2",		
+			"population" : "2.8M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Qatari riyal"
+		},
+		{
+			"name" : "Russia",
+			"capital" : "Moscow",
+			"area" : "17,098, 246km2",
+			"population" : "147.2M",
+			"languages" : "Russian",
+			"religion" : "christianity",
+			"currency" : "Russian ruble"
+		},
+		{
+			"name" : "Saudi Arabia",
+			"capital" : "Riyadh",
+			"area" : "2,149,690km2",		
+			"population" : "38.4M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Saudi riyal"
+		},
+		{
+			"name" : "Singapore",
+			"capital" : "Singapore",
+			"area" : "733km2",		
+			"population" : "5.6M",
+			"languages" : "Malay",
+			"religion" : "Buddhism",
+			"currency" : "Singapore dollar"
+		},
+		{
+			"name" : "South Korea",
+			"capital" : "Seoul",
+			"area" : "100,363km2",		
+			"population" : "52.0M",
+			"languages" : "Korean, Korean Sign Language",
+			"religion" : "Non-religiouss",
+			"currency" : "Korean Republic won"
+		},
+		{
+			"name" : "Sri Lanka",
+			"capital" : "Sri Jayawardenepura Kotte",
+			"area" : "65,610km2",		
+			"population" : "22.2M",
+			"languages" : "Sinhala, Tamil",
+			"religion" : "Buddhism",
+			"currency" : "Sri Lankan rupee"
+		},
+		{
+			"name" : "Syria",
+			"capital" : "Damascus",
+			"area" : "185,180km2",		
+			"population" : "22.1M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Syrian pound"
+		},
+		{
+			"name" : "Taiwan",
+			"capital" : "Taipei",
+			"area" : "36,197km2",		
+			"population" : "23.9M",
+			"languages" : "Standard Chinese",
+			"religion" : "Buddhism/Taoism",
+			"currency" : "New Taiwan dollar"
+		},
+		{
+			"name" : "Tajikistan",
+			"capital" : "Dushanbe",
+			"area" : "142,326km2",		
+			"population" : "9.8M",
+			"languages" : "Tajik, Russian",
+			"religion" : "islam",
+			"currency" : "Somoni"
+		},
+		{
+			"name" : "Thailand",
+			"capital" : "Bangkok",
+			"area" : "513,120km2",		
+			"population" : "69.6M",
+			"languages" : "Thai",
+			"religion" : "Buddhism",
+			"currency" : "Baht"
+		},
+		{
+			"name" : "East Timor",
+			"capital" : "Dili",
+			"area" : "14,874km2",		
+			"population" : "1.3M",
+			"languages" : "Portuguese, Tetum",
+			"religion" : "christianity",
+			"currency" : "East Timor Centavo, U.S. dollar"
+		},
+		{
+			"name" : "Turkey",
+			"capital" : "Ankara",
+			"area" : "783,356km2",		
+			"population" : "85.3M",
+			"languages" : "Turkish",
+			"religion" : "islam",
+			"currency" : "Turkish lira"
+		},
+		{
+			"name" : "Turkmenistan",
+			"capital" : "Ashgabat",
+			"area" : "491,210km2",		
+			"population" : "5.6M",
+			"languages" : "Turkmen",
+			"religion" : "islam",
+			"currency" : "Manat"
+		},
+		{
+			"name" : "United_Arab_Emirates",
+			"capital" : "Abu Dhabi",
+			"area" : "83,600km2",		
+			"population" : "9.3M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "UAE dirham"
+		},
+		{
+			"name" : "Uzbekistan",
+			"capital" : "Tashkent",
+			"area" : "448,978km2",		
+			"population" : "36.0M",
+			"languages" : "Uzbek",
+			"religion" : "islam",
+			"currency" : "Uzbek soum"
+		},
+		{
+			"name" : "Vietnam",
+			"capital" : "Hanoi",
+			"area" : "331,212km2",		
+			"population" : "99.5M",
+			"languages" : "Vietnamese",
+			"religion" : "Vietnamese folk religion",
+			"currency" : "Dong"
+		},
+		{
+			"name" : "Yemen",
+			"capital" : "Sanaa/Aden",
+			"area" : "555,000km2",		
+			"population" : "31.0M",
+			"languages" : "Arabic",
+			"religion" : "islam",
+			"currency" : "Yemeni rial"
+		},
+		{
+			"name" : "Albania",
+			"capital" : "Tirana",
+			"area" : "28,748km2",
+			"population" : "2.8M",
+			"languages" : "Albanian",
+			"religion" : "islam",
+			"currency" : "Lek" 
+		},
+		{
+			"name" : "Andorra",
+			"capital" : "Andorra la Vela",
+			"area" : "467km2",
+			"population" : "80K",
+			"languages" : "Catalan",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Austria",
+			"capital" : "Vienna",
+			"area" : "83,871km2",
+			"population" : "9.0M",
+			"languages" : "German",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Belarus",
+			"capital" : "Minsk",
+			"area" : "207,595km2",
+			"population" : "9.3M",
+			"languages" : "Belarusian, Russian",
+			"religion" : "christianity",
+			"currency" : "Belarusian ruble" 
+		},
+		{
+			"name" : "Belgium",
+			"capital" : "Brusells", 
+			"area" : "30,528km2",
+			"population" : "11.6M",
+			"languages" : "Dutch, French, German",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Bosnia and Herzegovina",
+			"capital" : "Sarajevo",
+			"area" : "51,129km2",
+			"population" : "3.5M",
+			"languages" : "Bosnian, Croatian, Serbian",
+			"religion" : "islam/christianity",
+			"currency" : "convertible mark" 
+		},
+		{
+			"name" : "Bulgaria",
+			"capital" : "Sofia",
+			"area" : "110, 993km2",
+			"population" : "6.5M",
+			"languages" : "Bulgarian",
+			"religion" : "christianity",
+			"currency" : "Lev" 
+		},
+		{
+			"name" : "Croatia",
+			"capital" : "Zagreb",
+			"area" : "56,594km2",
+			"population" : "3.9M",
+			"languages" : "Croatian",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Czech Republic",
+			"capital" : "Prague" ,
+			"area" : "78,871km2",
+			"population" : "10.5M",
+			"languages" : "Czech",
+			"religion" : "non-religious",
+			"currency" : "Czech koruna" 
+		},
+		{
+			"name" : "Denmark",
+			"capital" : "Copenhagen",
+			"area" : "42,943km2",
+			"population" : "5.9M",
+			"languages" : "Danish",
+			"religion" : "christianity",
+			"currency" : "Danish krone" 
+		},
+		{
+			"name" : "Estonia",
+			"capital" : "Tallinn",
+			"area" : "45,339km2",
+			"population" : "1.4M",
+			"languages" : "Estonian",
+			"religion" : "non-religious",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Finland",
+			"capital" : "Helsinki",
+			"area" : "338,455km2",
+			"population" : "5.6M",
+			"languages" : "Finnish, Swedish",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "France",
+			"capital" : "Paris",
+			"area" : "643,801km2",
+			"population" : "68.0M",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Germany",
+			"capital" : "Berlin",
+			"area" : "357,592km2",
+			"population" : "84.3M",
+			"languages" : "German",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Greece",
+			"capital" : "Athens",
+			"area" : "131,957km2",
+			"population" : "10.5M",
+			"languages" : "Greek",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Hungary",
+			"capital" : "Budapest",
+			"area" : "93,030km2",
+			"population" : "9.7M",
+			"languages" : "Hungarian",
+			"religion" : "christianity",
+			"currency" : "Forint" 
+		},
+		{
+			"name" : "Iceland",
+			"capital" : "Reykjavik",
+			"area" : "102,775km2",
+			"population" : "376K",
+			"languages" : "Icelandic",
+			"religion" : "christianity",
+			"currency" : "Icelandic krona" 
+		},
+		{
+			"name" : "Ireland",
+			"capital" : "Dublin",
+			"area" : "70,273km2",
+			"population" : "5.1M",
+			"languages" : "Irish, English",
+			"religion" : "christianity", 
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Italy",
+			"capital" : "Rome",
+			"area" : "301,230km2",
+			"population" : "58.9M",
+			"languages" : "Italian",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Kosovo",
+			"capital" : "Pristina",
+			"area" : "10,887km2",
+			"population" : "1.8M",
+			"languages" : "Albanian, Serbian",
+			"religion" : "islam",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Latvia",
+			"capital" : "Riga",
+			"area" : "64,589km2",
+			"population" : "1.8M",
+			"languages" : "Latvian",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Liechtenstein",
+			"capital" : "Vaduz",
+			"area" : "160km2",
+			"population" : "38K",
+			"languages" : "German",
+			"religion" : "christianity",
+			"currency" : "Swiss franc" 
+		},
+		{
+			"name" : "Lithuania",
+			"capital" : "Vilnius",
+			"area" : "65,300km2",
+			"population" : "2.8M",
+			"languages" : "Lithuanian",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Luxembourg",
+			"capital" : "Luxembourg",
+			"area" : "2,586km2",
+			"population" : "645K",
+			"languages" : "Luxembourg ish, French, German",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Malta",
+			"capital" : "Valetta",
+			"area" : "316km2",
+			"population" : "519km2",
+			"languages" : "Maltese,  English",
+			"religion" : "christianity",
+			"currency" : "euro" 
+		},
+		{
+			"name" : "Moldova",
+			"capital" : "Chisinau",
+			"area" : "33,851km2",
+			"population" : "2.6M",
+			"languages" : "Romanian",
+			"religion" : "christianity",
+			"currency" : "Moldovan leu"
+		},
+		{
+			"name" : "Monaco",
+			"capital" : "Monaco",
+			"area" : "2km2",
+			"population" : "38K",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Montenegro",
+			"capital" : "Podgorica",
+			"area" : "13,812km2",
+			"population" : "605K",
+			"languages" : "Montenegrin",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Netherlands",
+			"capital" : "Amsterdam",
+			"area" : "41,543km2",
+			"population" : "17.8M",
+			"languages" : "Dutch",
+			"religion" : "non-religious",
+			"currency" : "euro, U. S. dollar"
+		},
+		{
+			"name" : "North Macedonia",
+			"capital" : "Skopje",
+			"area" : "25,713km2",
+			"population" : "1.8M",
+			"languages" : "Macedonian, Albanian",
+			"religion" : "christianity",
+			"currency" : "Macedonian denar"
+		},
+		{
+			"name" : "Norway",
+			"capital" : "Oslo",
+			"area" : "385,207km2",
+			"population" : "5.5M",
+			"languages" : "Norwegian, Sami",
+			"religion" : "christianity",
+			"currency" : "Norwegian krone"
+		},
+		{
+			"name" : "Poland",
+			"capital" : "Warsaw",
+			"area" : "312,696km2",
+			"population" : "38.0M",
+			"languages" : "Polish",
+			"religion" : "christianity",
+			"currency" : "zloty"
+		},
+		{
+			"name" : "Portugal",
+			"capital" : "Lisbon",
+			"area" : "92,212km2",
+			"population" : "10.4M",
+			"languages" : "Portuguese",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Romania",
+			"capital" : "Bucharest",
+			"area" : "238,397km2",
+			"population" : "19.1M",
+			"languages" : "Romanian",
+			"religion" : "christianity",
+			"currency" : "Romanian leu"
+		},
+		{
+			"name" : "San Marino",
+			"capital" : "San Marino",
+			"area" : "61km2",
+			"population" : "34K",
+			"languages" : "Italian",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Serbia",
+			"capital" : "Belgrade",
+			"area" : "88,499km2",
+			"population" : "6.7M",
+			"languages" : "Serbian",
+			"religion" : "christianity",
+			"currency" : "Serbian dinar"
+		},
+		{
+			"name" : "Slovakia",
+			"capital" : "Bratislava",
+			"area" : "49,035km2",
+			"population" : "5.5M",
+			"languages" : "Slovak",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Slovenia",
+			"capital" : "Ljubljana",
+			"area" : "20,271km2",
+			"population" : "2.1M",
+			"languages" : "Slovene",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Spain",
+			"capital" : "Madrid",
+			"area" : "505,990km2",
+			"population" : "47.3M",
+			"languages" : "Spanish",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Sweden",
+			"capital" : "Stockholm",
+			"area" : "447,425km2",
+			"population" : "10.5M",
+			"languages" : "Swedish",
+			"religion" : "christianity",
+			"currency" : "Swedish krona"
+		},
+		{
+			"name" : "Switzerland",
+			"capital" : "Bern",
+			"area" : "41,285km2",
+			"population" : "8.7M",
+			"languages" : "German, French, Italian, Romansh",
+			"religion" : "christianity",
+			"currency" : "Swiss franc"
+		},
+		{
+			"name" : "Ukraine",
+			"capital" : "Kyiv",
+			"area" : "603,628km2",
+			"population" : "36.7M",
+			"languages" : "Ukrainian",
+			"religion" : "christianity",
+			"currency" : "Hryvnia"
+		},
+		{
+			"name" : "United Kingdom",
+			"capital" : "London",
+			"area" : "242,495km2",
+			"population" : "68.1M",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Pound sterling"
+		},
+		{
+			"name" : "Vatican City",
+			"capital" : "Vatican City",
+			"area" : "0.5km2",
+			"population" : "453",
+			"languages" : "Latin",
+			"religion" : "christianity",
+			"currency" : "euro"
+		},
+		{
+			"name" : "Australia",
+			"capital" : "Canberra",
+			"area" : "7,692,024km2",
+			"population" : "26.1M",
+			"languages" : "English",
+			"religion" : "christianity/non-religious",
+			"currency" : "Australian dollar"
+		},
+		{
+			"name" : "Fiji",
+			"capital" : "Suva",
+			"area" : "18,274km2",
+			"population" : "926K",
+			"languages" : "English, Fijian, Fiji Hindi",
+			"religion" : "christianity",
+			"currency" : "Fijian dollar"
+		},
+		{
+			"name" : "Kiribati",
+			"capital" : "South Tarawa",
+			"area" : "811km2",
+			"population" : "121K",
+			"languages" : "English, Gilbertese",
+			"religion" : "christianity",
+			"currency" : "Australian dollar"
+		},
+		{
+			"name" : "Marshall Islands",
+			"capital" : "Delap Uliga Djarrit",
+			"area" : "181km2",
+			"population" : "62.0K",
+			"languages" : "Marshallese, English",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar"
+		},
+		{
+			"name" : "Micronesia",
+			"capital" : "Palikir",
+			"area" : "702km2",
+			"population" : "104K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar"
+		},
+		{
+			"name" : "Nauru",
+			"capital" : "Yaren",
+			"area" : "21km2",
+			"population" : "10.8K",
+			"languages" : "Nauruan, English",
+			"religion" : "christianity",
+			"currency" : "Australian dollar"
+		},
+		{
+			"name" : "New Zealand",
+			"capital" : "Wellington",
+			"area" : "268,021km2",
+			"population" : "5.2M",
+			"languages" : "English, Maori, NZ Sign Language",
+			"religion" : "non-religious/christianity",
+			"currency" : "New Zealand dollar"
+		},
+		{
+			"name" : "Palau",
+			"capital" : "Ngerulmud",
+			"area" : "459km2",
+			"population" : "18K",
+			"languages" : "Palauan, English",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar"
+		},
+		{
+			"name" : "Papua New Guinea",
+			"capital" : "Port Moresby",
+			"area" : "462,840km2",
+			"population" : "8.9M",
+			"languages" : "English, Hiri Motu, PNG Sign Language, Tok Pisin",
+			"religion" : "christianity",
+			"currency" : "Kina"
+		},
+		{
+			"name" : "Samoa",
+			"capital" : "Apia",
+			"area" : "2,831km2",
+			"population" : "206K",
+			"languages" : "Samoan, English",
+			"religion" : "christianity",
+			"currency" : "Taia"
+		},
+		{
+			"name" : "Solomon Islands",
+			"capital" : "Honiara",
+			"area" : "28,400km2",
+			"population" : "708K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Solomon Islands dollar"
+		},
+		{
+			"name" : "Tonga",
+			"capital" : "Nukualofa",
+			"area" : "748km2",
+			"population" : "100K",
+			"languages" : "Tongan, English",
+			"religion" : "christianity",
+			"currency" : "Pa'anga"
+		},
+		{
+			"name" : "Tuvalu",
+			"capital" : "Funafuti",
+			"area" : "26km2",
+			"population" : "11.9K",
+			"languages" : "Tuvaluan, English",
+			"religion" : "christianity",
+			"currency" : "Tuvaluan dollar, Australian dollar"
+		},
+		{
+			"name" : "Vanuatu",
+			"capital" : "Port Vila",
+			"area" : "12,189km2",
+			"population" : "308K",
+			"languages" : "Bislama, English, French",
+			"religion" : "christianity",
+			"currency" : "Vatu"
+		}
+	]
+}

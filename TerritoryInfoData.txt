@@ -1,0 +1,533 @@
+{
+	"territoryInfo": [{
+			"name": "Anguilla",
+			"capital": "The Valley",
+			"area": "91km2",
+			"population": "15.7K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "Eastern Caribbean dollar",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name": "Bermuda",
+			"capital": "Hamilton",
+			"area": "53km2",
+			"population": "64K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "Bermudian dollar",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name": "British Virgin Islands",
+			"capital": "Road Town",
+			"area": "153km2",
+			"population": "30K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name": "Cayman Islands",
+			"capital": "George Town",
+			"area": "264km2",
+			"population": "79K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "Cayman Islands dollar",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name": "Guadeloupe",
+			"capital": "Basse Terre",
+			"area": "1,628km2",
+			"population": "384K",
+			"languages": "French",
+			"religion": "christianity",
+			"currency": "Euro",
+			"overlord": "France"
+		},
+		{
+			"name": "Greenland",
+			"capital": "Nuuk",
+			"area": "2 166 086km2",
+			"population": "57K",
+			"languages": "Greenlandic",
+			"religion": "christianity",
+			"currency": "Danish krone",
+			"overlord": "Denmark"
+		},
+		{
+			"name": "Martinique",
+			"capital": "Fort de France",
+			"area": "1,128km2",
+			"population": "361K",
+			"languages": "French",
+			"religion": "christianity",
+			"currency": "Euro",
+			"overlord": "France"
+		},
+		{
+			"name": "Montserrat",
+			"capital": "Plymouth/Brades",
+			"area": "102km2",
+			"population": "5K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "East Caribbean dollar",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name": "Puerto Rico",
+			"capital": "San Juan",
+			"area": "9,104km2",
+			"population": "3.3M",
+			"languages": "Spanish, English",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "United States"
+		},
+		{
+			"name": "Saba",
+			"capital": "The Bottom",
+			"area": "13km2",
+			"population": "2K",
+			"languages": "Dutch",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "Netherlands"
+		},
+		{
+			"name": "Saint Barthelemy",
+			"capital": "Gustavia",
+			"area": "25km2",
+			"population": "10K",
+			"languages": "French",
+			"religion": "christianity",
+			"currency": "Euro",
+			"overlord": "France"
+		},
+		{
+			"name": "Saint Martin",
+			"capital": "Marigot",
+			"area": "53km2",
+			"population": "33K",
+			"languages": "French",
+			"religion": "christianity",
+			"currency": "Euro",
+			"overlord": "France"
+		},
+		{
+			"name": "Saint Pierre and Miquelon",
+			"capital": "Saint Pierre",
+			"area": "242km2",
+			"population": "6K",
+			"languages": "French",
+			"religion": "christianity",
+			"currency": "Euro",
+			"overlord": "France"
+		},
+		{
+			"name": "Sint Eustatius",
+			"capital": "Oranjestad",
+			"area": "21km2",
+			"population": "3K",
+			"languages": "Dutch, English",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "Netherlands"
+		},
+		{
+			"name": "Sint Maarten",
+			"capital": "Philipsburg",
+			"area": "34km2",
+			"population": "42K",
+			"languages": "Dutch, English",
+			"religion": "christianity",
+			"currency": "Netherlands Antillean guilder",
+			"overlord": "Netherlands"
+		},
+		{
+			"name": "Turks and Caicos",
+			"capital": "Cockburn Town",
+			"area": "948km2",
+			"population": "45K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name": "United States Virgin Islands",
+			"capital": "Charlotte Amalie",
+			"area": "346km2",
+			"population": "87K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "United States"
+		},
+		{
+			"name": "Aruba",
+			"capital": "Oranjestad",
+			"area": "180km2",
+			"population": "117K",
+			"languages": "Papiamento, Dutch",
+			"religion": "christianity",
+			"currency": "Aruban florin",
+			"overlord": "Netherlands"
+		},
+		{
+			"name": "Bonaire",
+			"capital": "Kralendijk",
+			"area": "288km2",
+			"population": "23K",
+			"languages": "Dutch",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "Netherlands"
+		},
+		{
+			"name": "Curacao",
+			"capital": "Willemstad",
+			"area": "444km2",
+			"population": "155K",
+			"languages": "Papiamento, Dutch, English",
+			"religion": "christianity",
+			"currency": "Netherlands Antillean guilder",
+			"overlord": "Netherlands"
+		},
+		{
+			"name": "Falkland Islands",
+			"capital": "Stanley",
+			"area": "12,173km2",
+			"population": "4K",
+			"languages": "English",
+			"religion": "christianity",
+			"currency": "Falkland Islands pound",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name": "French Guiana",
+			"capital": "Cayenne",
+			"area": "83,846km2",
+			"population": "301K",
+			"languages": "French",
+			"religion": "christianity",
+			"currency": "Euro",
+			"overlord": "France"
+		},
+		{
+			"name": "Galapagos Islands",
+			"capital": "Puerto Baquerizo Moreno",
+			"area": "8,010km2",
+			"population": "25K",
+			"languages": "Spanish",
+			"religion": "christianity",
+			"currency": "U.S. dollar",
+			"overlord": "Ecuador"
+		},
+		{
+			"name": "South Georgia",
+			"capital": "King Edward Point",
+			"area": "3,903km2",
+			"population": "Uninhabited",
+			"languages": "English",
+			"religion": "none",
+			"currency": "Falkland Islands pound",
+			"overlord": "United Kingdom"
+		},
+		{
+			"name" : "Canary Islands", 
+			"capital" : "Las Palmas/Santa Cruz", 
+			"area" : "7,493km2",
+			"population" : "2.2M",
+			"languages" : "Spanish", 
+			"religion" : "christianity",
+			"currency" : "euro", 
+			"overlord" : "Spain"
+		},
+		{
+			"name" : "Mayotte", 
+			"capital" : "Mamoudzou", 
+			"area" : "374km2",
+			"population" : "310K",
+			"languages" : "French", 
+			"religion" : "islam", 
+			"currency" : "euro", 
+			"overlord" : "France"
+		},
+		{
+			"name" : "Reunion", 
+			"capital" : "Saint Denis", 
+			"area" : "2,511km2",
+			"population" : "873K",
+			"languages" : "French", 
+			"religion" : "christianity", 
+			"currency" : "euro", 
+			"overlord" : "France" 
+		},
+		{
+			"name" : "Saint Helena", 
+			"capital" : "Jamestown", 
+			"area" : "122km2",
+			"population" : "4.4K", 
+			"languages" : "English", 
+			"religion" : "christianity", 
+			"currency" : "Saint Helena pound", 
+			"overlord" : "United Kingdom" 
+		},
+		{
+			"name" : "Ascension Island", 
+			"capital" : "Georgetown", 
+			"area" : "88km2",
+			"population" : "800",
+			"languages" : "English", 
+			"religion" : "christianity", 
+			"currency" : "Saint Helena pound", 
+			"overlord" : "United Kingdom" 
+		},
+		{
+			"name" : "Tristan da Cunha", 
+			"capital" : "Edinburgh of the Seven Seas", 
+			"area" : "207km2",
+			"population" : "238",
+			"languages" : "English", 
+			"religion" : "christianity", 
+			"currency" : "Sterling", 
+			"overlord" :  "United Kingdom"
+		},
+		{
+			"name" : "Madeira", 
+			"capital" : "Funchal", 
+			"area" : "801km2",
+			"population" : "251K",
+			"languages" : "Portuguese", 
+			"religion" : "christianity", 
+			"currency" : "euro", 
+			"overlord" :  "Portugal" 
+		},
+		{
+			"name" : "Cocos Islands",
+			"capital" : "West Island",
+			"area" : "14km2",
+			"population" : "593",
+			"languages" : "none",
+			"religion" : "islam",
+			"currency" : "Australian dollar",
+			"overlord" : "Australia"
+		},
+		{
+			"name" : "Christmas Island",
+			"capital" : "Flying Fish Cove",
+			"area" : "135km2",
+			"population" : "1,692",
+			"languages" : "none",
+			"religion" : "islam/buddhism",
+			"currency" : "Australian dollar",
+			"overlord" : "Australia"
+		},
+		{
+			"name" : "Aland",
+			"capital" : "Mariehamn",
+			"area" : "1,580km2",
+			"population" : "30.1K",
+			"languages" : "Swedish",
+			"religion" : "christianity",
+			"currency" : "Euro",
+			"overlord" : "Finland"
+		},
+		{
+			"name" : "Azores",
+			"capital" : "Ponta Delgada/Angra do Heroismo/Horta",
+			"area" : "2,351km2",
+			"population" : "236K",
+			"languages" : "Portuguese",
+			"religion" : "christianity",
+			"currency" : "Euro",
+			"overlord" : "Portugal"
+		},
+		{
+			"name" : "Faroe Islands",
+			"capital" : "Torshavn",
+			"area" : "1,399km2",
+			"population" : "54.0K",
+			"languages" : "Faroese, Danish",
+			"religion" : "christianity",
+			"currency" : "Faroese krona",
+			"overlord" : "Denmark"
+		},
+		{
+			"name" : "Gibraltar",
+			"capital" : "Westside",
+			"area" : "7km2",
+			"population" : "34.0K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Gibraltar pound",
+			"overlord" : "United Kingdom"
+		},
+		{
+			"name" : "Guernsey",
+			"capital" : "Saint Peter Port",
+			"area" : "78km2",
+			"population" : "67.3K",
+			"languages" : "English",
+			"religion" : "christianity",
+			"currency" : "Pound sterling, Guernsey pound",
+			"overlord" : "United Kingdom"
+		},
+		{
+			"name" : "Jersey",
+			"capital" : "Saint Helier",
+			"area" : "120km2",
+			"population" : "103K",
+			"languages" : "English, Norman, French",
+			"religion" : "christianity",
+			"currency" : "Pound sterling, Jersey pound",
+			"overlord" : "United Kingdom"
+		},
+		{
+			"name" : "Isle of Man",
+			"capital" : "Douglas",
+			"area" : "572km2",
+			"population" : "84.1K",
+			"languages" : "Manx,English",
+			"religion" : "christianity/non-religious",
+			"currency" : "Pound sterling, Manx pound",
+			"overlord" : "United Kingdom"
+		},
+		{
+			"name" : "Svalbard",
+			"capital" : "Longyearbyen",
+			"area" : "62,045km2",
+			"population" : "2,504",
+			"languages" : "Norwegian",
+			"religion" : "christianity",
+			"currency" : "Norwegian krone",
+			"overlord" : "Norway"
+		},
+		{
+			"name" : "New Caledonia",
+			"capital" : "Noumea",
+			"area" : "18,576km2",
+			"population" : "238K",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "CFP franc",
+			"overlord" : "France"
+		},
+		{
+			"name" : "Wallis and Futuna",
+			"capital" : "Mata Utu",
+			"area" : "142km2",
+			"population" : "11.6K",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "CFP franc",
+			"overlord" : "France"
+		},
+		{
+			"name" : "American Samoa",
+			"capital" : "Pago Pago",
+			"area" : "200km2",
+			"population" : "45.4K",
+			"languages" : "Samoan, English",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar",
+			"overlord" : "United States"
+		},
+		{
+			"name" : "Niue",
+			"capital" : "Alofi",
+			"area" : "261km2",
+			"population" : "1,937",
+			"languages" : "English, Niuean",
+			"religion" : "christianity",
+			"currency" : "New Zealand dollar",
+			"overlord" : "New Zealand"
+		},
+		{
+			"name" : "Cook Islands",
+			"capital" : "Avarua",
+			"area" : "237km2",
+			"population" : "15.0K",
+			"languages" : "English, Cook Islands Maori",
+			"religion" : "christianity",
+			"currency" : "New Zealand dollar",
+			"overlord" : "New Zealand"
+		},
+		{
+			"name" : "French Polynesia",
+			"capital" : "Papeete",
+			"area" : "4,167km2",
+			"population" : "279K",
+			"languages" : "French",
+			"religion" : "christianity",
+			"currency" : "CFP franc",
+			"overlord" : "France"
+		},
+		{
+			"name" : "Pitcairn",
+			"capital" : "Adamstown",
+			"area" : "47km2",
+			"population" : "47",
+			"languages" : "Pitkern, English",
+			"religion" : "none",
+			"currency" : "New Zealand dollar",
+			"overlord" : "United Kingdom"
+		},
+		{
+			"name" : "Tokelau",
+			"capital" : "none",
+			"area" : "10km2",
+			"population" : "1,499",
+			"languages" : "Tokelauan, English",
+			"religion" : "christianity",
+			"currency" : "New Zealand dollar",
+			"overlord" : "New Zealand"
+		},
+		{
+			"name" : "Guam",
+			"capital" : "Hagatna",
+			"area" : "540km2",
+			"population" : "168.8K",
+			"languages" : "English, Chamorro",
+			"religion" : "christianity",
+			"currency" : "U.S dollar",
+			"overlord" : "United States"
+		},
+		{
+			"name" : "Northern Mariana Islands",
+			"capital" : "Saipan",
+			"area" : "464km2",
+			"population" : "55.7K",
+			"languages" : "English, Chamorro, Carolinian",
+			"religion" : "christianity",
+			"currency" : "U.S. dollar",
+			"overlord" : "United States"
+		},
+		{
+			"name" : "Easter Island",
+			"capital" : "Hanga Roa",
+			"area" : "164km2",
+			"population" : "7.8K",
+			"languages" : "Spanish, Rapa Nui",
+			"religion" : "christianity",
+			"currency" : "Peso",
+			"overlord" : "Chile"
+		},
+		{
+			"name" : "Norfolk",
+			"capital" : "Kingston",
+			"area" : "35km2",
+			"population" : "2,188",
+			"languages" : "English, Norfuk",
+			"religion" : "christianity",
+			"currency" : "Australian dollar",
+			"overlord" : "Australia"
+		}
+	]
+}
